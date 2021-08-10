@@ -19,7 +19,7 @@
     </head>
     <body>
         <div id="app">
-            
+            オンラインサポートでGITの練習をしました
         </div>
     </body>
     
